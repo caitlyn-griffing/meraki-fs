@@ -1,0 +1,18 @@
+.contact {
+    border-top: 1px solid #f851d5;
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 0.3em;
+}
+
+.pink {
+    color: #f851d5;
+    padding: 0.5em;
+    font-size: 1rem;
+}
+
+#heart, #heart span {
+    font-size: 0.4rem;
+    text-align: center;
+    margin-top: 2.5em;
+}
