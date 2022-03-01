@@ -5,12 +5,12 @@ function About() {
   return (
     <div id='about'>
       <div id="inside">
-        <h2>About Me</h2>
+        <h2>About <span className='pink'>Me</span></h2>
         <div className='aboutme' id="bioPhoto">
-          <p>Hello</p>
+          <p>PHOTO</p>
         </div>
         <div className='aboutme' id="bioText">
-          <h3>~JACK OF ALL TRADES, MASTER OF SOME~</h3>
+          <h3 className=''>~JACK OF ALL TRADES, MASTER OF SOME~</h3>
           <p>My name is Caitlyn and I'm a Full-Stack Web Developer!
           I attended Southern Methodist University to further my career goal with Full Stack Development.</p>
           <br />
