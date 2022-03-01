@@ -33,3 +33,12 @@ button:hover{
     border-radius: 5px;
     text-transform: uppercase;
 }
+
+#resume {
+    text-align: center;
+}
+
+#resume img {
+    width: 45%;
+    cursor: pointer;
+}
