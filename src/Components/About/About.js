@@ -1,5 +1,6 @@
 import React from 'react'
 // import { Routes, Route, Link } from 'react-router-dom'
+const selfie = require('./images/selfie.jpeg')
 
 function About() {
   return (
@@ -7,11 +8,11 @@ function About() {
       <div id="inside">
         <h2>About <span className='pink'>Me</span></h2>
         <div className='aboutme' id="bioPhoto">
-          <p>PHOTO</p>
+          <img src={ selfie } alt="" />
         </div>
         <div className='aboutme' id="bioText">
-          <h3 className=''>~JACK OF ALL TRADES, MASTER OF SOME~</h3>
-          <p>My name is Caitlyn and I'm a Full-Stack Web Developer!
+          <h3><span className='pink'>JACK</span> OF ALL TRADES, <span className='pink'>MASTER</span> OF SOME</h3>
+          <p>My name is <span className='pink'>Caitlyn</span> and I'm a <span className='pink'>Full-Stack Web Developer</span>!
           I attended Southern Methodist University to further my career goal with Full Stack Development.</p>
           <br />
           <p>A forever student in this rapidly transforming industry, I'm eager to stay up to date with technical advances through continued coursework and professional development</p>

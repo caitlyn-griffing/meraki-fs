@@ -7,3 +7,29 @@ a {
     height: 40%;
     padding: 0.7em;
 }
+
+.projEach, p {
+    border-bottom: 1.5px solid #f851d5;
+    padding: 1.7em;
+    text-align: center;
+}
+
+#about {
+    text-align: center;
+}
+
+button, a {
+    color: #f851d5;
+    padding: 0.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+    letter-spacing: 0.07em;
+    
+}
+
+button:hover{
+    background-color: #1f2329;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    text-transform: uppercase;
+}

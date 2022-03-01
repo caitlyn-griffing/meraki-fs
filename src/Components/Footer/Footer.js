@@ -6,8 +6,8 @@ function Footer() {
     <div>
         <div id='contact' className="contact">
             <h2 className='pink'>Contact Me</h2>
-            <p>griffingcaitlyn@gmail.com</p>
-            <p>Phone Number</p>
+            <div>griffingcaitlyn@gmail.com</div>
+            <div>469-278-6558</div>
         </div>
         <div id='heart'>
           Made with <span className='pink'>♡</span> by Caitlyn Griffing
