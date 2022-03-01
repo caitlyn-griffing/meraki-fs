@@ -1,14 +1,21 @@
 {
   "files": {
-    "main.css": "/meraki-fs/static/css/main.4d242c7d.css",
-    "main.js": "/meraki-fs/static/js/main.1a5a5453.js",
-    "static/media/MerakiFS.png": "/meraki-fs/static/media/MerakiFS.7f6ba33241f774f17a9d.png",
+    "main.css": "/meraki-fs/static/css/main.0a3df2d8.css",
+    "main.js": "/meraki-fs/static/js/main.35ac8ddd.js",
+    "static/media/merakiWOpink.png": "/meraki-fs/static/media/merakiWOpink.2bb74cf9a4d83f753d1f.png",
+    "static/media/raversOutlet.png": "/meraki-fs/static/media/raversOutlet.71a7308e0f89172c26d3.png",
+    "static/media/heatWave.png": "/meraki-fs/static/media/heatWave.d452c82ed49f79141622.png",
+    "static/media/beatTheTimer.png": "/meraki-fs/static/media/beatTheTimer.1a219775621d8a4a82d0.png",
+    "static/media/passwordGenerator.png": "/meraki-fs/static/media/passwordGenerator.ec950de6caf2fc10bb6c.png",
+    "static/media/noteTaker.png": "/meraki-fs/static/media/noteTaker.eb25d7d03120b58b1a75.png",
+    "static/media/selfie.jpeg": "/meraki-fs/static/media/selfie.19f2b3f04ca3e911bb06.jpeg",
+    "static/media/placeholder.png": "/meraki-fs/static/media/placeholder.7f6ba33241f774f17a9d.png",
     "index.html": "/meraki-fs/index.html",
-    "main.4d242c7d.css.map": "/meraki-fs/static/css/main.4d242c7d.css.map",
-    "main.1a5a5453.js.map": "/meraki-fs/static/js/main.1a5a5453.js.map"
+    "main.0a3df2d8.css.map": "/meraki-fs/static/css/main.0a3df2d8.css.map",
+    "main.35ac8ddd.js.map": "/meraki-fs/static/js/main.35ac8ddd.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d242c7d.css",
-    "static/js/main.1a5a5453.js"
+    "static/css/main.0a3df2d8.css",
+    "static/js/main.35ac8ddd.js"
   ]
 }
