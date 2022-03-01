@@ -19,10 +19,7 @@ function Navbar() {
           <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li className="nav-item">
               <a
-                exact
-                to="/"
                 href='#'
-                activeClassName="active"
                 className="nav-links"
                 onClick={click ? handleClick : null}
               >
@@ -31,10 +28,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <a
-                exact
-                to="/about"
                 href='#about'
-                activeClassName="active"
                 className="nav-links"
                 onClick={click ? handleClick : null}
               >
@@ -43,10 +37,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <a
-                exact
-                to="/project"
                 href='#project'
-                activeClassName="active"
                 className="nav-links"
                 onClick={click ? handleClick : null}
               >
@@ -55,10 +46,7 @@ function Navbar() {
             </li>
             <li className="nav-item">
               <a
-                exact
-                to="/contact"
                 href='#contact'
-                activeClassName="active"
                 className="nav-links"
                 onClick={click ? handleClick : null}
               >
